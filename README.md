@@ -2,7 +2,7 @@
 
 21/09/2023
 To store nba data from Kaggle 
-I will try to commit to this repository at least once a day
+
 I will use this as a place to store my code and progress.
 
 Actually, this is 3rd day since i started watching that data engineering project 
